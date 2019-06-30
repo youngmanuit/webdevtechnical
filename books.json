@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5d146ac1486256893f61eed3"},"title":"Node.js Blueprints","description":"More something about it . i will present it clearly lateerr..","category":"Node.js","author":"Krasimir Tsonev","publisher":"Publisher Two","price":230,"cover":"node2.jpg"}
+{"_id":{"$oid":"5d146b9b486256893f61eed4"},"title":"Node Web Development","description":"More something about it . i will present it clearly lateerr..","category":"Node.js","author":"David Herron","publisher":"Publisher Three","price":"160.000","cover":"node3.jpg"}
+{"_id":{"$oid":"5d146bf4486256893f61eed5"},"title":"Intro to Node.js","description":"More something about it . i will present it clearly lateerr..","category":"Node.js","author":"Don Nguyen","publisher":"Publisher Four","price":"110.000","cover":"node4.jpg"}
+{"_id":{"$oid":"5d17805a0d573e2f5474860b"},"title":"Node.js Professional","description":"ss","category":"Node.js","author":"ss","publisher":"publisher one","price":"260","cover":"node1.jpg"}
