@@ -1,2 +1,4 @@
-# webdevtechnical
-Mai Quang Trường và Nguyễn Duy Trà
+UITBookstore
+===========
+
+a simple e_commerce webapp
